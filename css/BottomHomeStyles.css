@@ -1,0 +1,25 @@
+body{
+	font-family: 'Rubik', sans-serif;
+	font-weight: normal;
+	color: #FFFFFF;
+}
+.BottomHome {
+	background: #0E418A;
+	position: relative;
+	width: 100%;
+	height: 100%;
+	left: 0px;
+}
+.BottomHome h4{
+	margin-top: 145%;	
+	margin-bottom: 20%;
+}
+.info {
+	position: absolute;
+	padding-top: 12%;
+	width: 30%;
+}
+.info img{
+	padding-right: 10%;
+	margin-top: 12%;
+}
