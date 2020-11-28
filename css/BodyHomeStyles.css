@@ -1,0 +1,39 @@
+body{
+		background: rgba(141, 186, 201, 0.06)
+}
+.marcas{
+	font-family: 'Rubik', sans-serif;
+	font-size: 24px;
+	font-weight: 400px;
+}
+
+#Trusted{
+	margin-top: 10%;
+	margin-left: 5%;
+}
+.marcas abc{
+	color: #09A4D8;
+	font-weight: 700px;
+}
+.marcas img{
+	margin-top: 25%;
+}
+.our-service h5 {
+	margin-top: 13.5%;
+	font-family: 'Roboto Slab', serif;
+	font-weight: normal;
+	font-size: 32px;
+	color: #0F1C49;
+}
+.our-service img{
+	margin-top: 35.3%;
+}
+.our-service h4{
+	color: #0F1C49;
+	margin-top: 10%;
+}
+.our-service p{
+	color: #878DA4;
+	font-size: 16px;
+	font-weight: 400px;
+}
