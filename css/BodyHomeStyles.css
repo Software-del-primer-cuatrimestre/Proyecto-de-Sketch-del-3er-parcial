@@ -31,9 +31,36 @@ body{
 .our-service h4{
 	color: #0F1C49;
 	margin-top: 10%;
+	margin-bottom: 9%
+
 }
 .our-service p{
 	color: #878DA4;
 	font-size: 16px;
 	font-weight: 400px;
+	margin-bottom: 68%;
+	line-height: 28px;
+	width: 80%;
+	margin-left: 10%;
+}
+.process_1 h4{
+	color: #0F1C49;
+	line-height: 48px;
+	font-size: 32px;
+	font-weight: normal;
+	font-family: 'Roboto Slab', serif; 
+	width: 110%;
+	margin-bottom: 12%;
+	margin-top: 32.4%;
+}
+.process_1 h5{
+	font-size: 16px;
+	font-weight: normal;
+	font-family: 'Rubik', sans-serif;
+	color: rgba(135, 141, 164, 1);
+	width: 115%; 
+	line-height: 28px;
+}
+#doc{
+	margin-right: -20%;
 }
