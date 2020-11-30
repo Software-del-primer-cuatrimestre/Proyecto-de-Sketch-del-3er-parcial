@@ -8,8 +8,8 @@ body{
 }
 
 #Trusted{
-	margin-top: 10%;
-	margin-left: 5%;
+	margin-top: 9.4%;
+	margin-left: 1.8%;
 }
 .marcas abc{
 	color: #09A4D8;
@@ -17,20 +17,21 @@ body{
 }
 .marcas img{
 	margin-top: 25%;
+	margin-bottom: 2.7%;
 }
 .our-service h5 {
-	margin-top: 13.5%;
+	margin-top: 13.1%;
 	font-family: 'Roboto Slab', serif;
 	font-weight: normal;
 	font-size: 32px;
 	color: #0F1C49;
 }
 .our-service img{
-	margin-top: 35.3%;
+	margin-top: 34.6%;
 }
 .our-service h4{
 	color: #0F1C49;
-	margin-top: 10%;
+	margin-top: 9.2%;
 	margin-bottom: 9%
 
 }
@@ -60,7 +61,65 @@ body{
 	color: rgba(135, 141, 164, 1);
 	width: 115%; 
 	line-height: 28px;
+	margin-left: 1.5%;
 }
 #doc{
-	margin-right: -20%;
+ margin-left: -7%;
+ margin-bottom: 41%;
+}
+#temporal{
+ position: absolute;
+ right: 4.5%;
+ margin-top: 18%;
+}
+.process_2 h4{
+	color: #0F1C49;
+	line-height: 48px;
+	font-size: 32px;
+	font-weight: normal;
+	font-family: 'Roboto Slab', serif; 
+	margin-left: 7.5%;
+	width: 110%;
+	margin-bottom: 9.5%;
+}
+#feeling{
+	margin-top: 12.7%;
+	margin-bottom: -.1%;
+}
+.process_2 h5{
+	font-size: 16px;
+	font-weight: normal;
+	font-family: 'Rubik', sans-serif;
+	color: rgba(135, 141, 164, 1);
+	line-height: 28px;
+	margin-left: 8.6%;
+}
+.process_2 h3{
+	color: #FFFFFF;
+	font-size: 14px;
+	font-family: 'Rubik', sans-serif;
+	font-weight: 500px;
+	background-color: #FAB91C;
+	padding-right: 7%;
+	padding-left: 7%;
+	position: absolute;
+	margin-left: 7%;
+	padding-top: 4.5%;
+	padding-bottom: 4.4%;
+	margin-top: 9.5%;
+	border-radius: 8px;
+}
+.process_2 h3:hover{
+	color: #08B3E3;
+
+}
+#esteto{
+	position: absolute;
+	margin-top: 32%;
+	margin-left: 5%;
+}
+#temporal_2{
+	position: absolute;
+	margin-top: 19.4%;
+	margin-left: 26.5%;
 }
