@@ -1,0 +1,84 @@
+/*font-family: 'Roboto Slab', serif;
+font-family: 'Rubik', sans-serif;*/
+.AboutUs{
+	position: relative;
+	width: 70%;
+	height: 394px;
+	left: 9%;
+	top: 590px;
+}
+.AboutUs h2{
+	position: relative;
+	font-family: 'Roboto Slab', serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 200%;
+	line-height: 150%;
+	top: 4%;
+	width: 100%;
+}
+.AboutUs p{
+	position: relative;
+	font-family: 'Rubik', sans-serif;
+	line-height: 170%;
+	top: 10%;
+	width: 125%;
+}
+.AboutUsText02{
+	position: relative;
+	font-family: 'Rubik', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	margin-top: -3%;
+}
+.MakeAnAppointment{
+	position: relative;
+	background-color: #09A4D8;
+	border-radius: 4%;
+	padding: 4%;
+	padding-left: 150px;
+	padding-right: 130px;
+	left: 150%;
+	bottom: 211px;
+	color: #FFFFFF;
+}
+.FindADoctor{
+	position: relative;
+	background-color: #09A4D8;
+	border-radius: 4%;
+	padding: 4%;
+	padding-left: 180px;
+	padding-right: 165px;
+	left: 150%;
+	bottom: 155px;
+	color: #FFFFFF;
+}
+.GetDirections{
+	position: relative;
+	background-color: #09A4D8;
+	border-radius: 4%;
+	padding: 4%;
+	padding-left: 180px;
+	padding-right: 160px;
+	left: 150%;
+	bottom: 100px;
+	color: #FFFFFF;
+}
+/*WHY CHOOSE US*/
+.WhyChooseUs{
+	position: absolute;
+	width: 1170px;
+	height: 585px;
+	left: 135px;
+	top: 1101px;
+}
+
+/*SLIDER*/
+
+.Slider{
+	position: absolute;
+	width: 1440px;
+	height: 401px;
+	left: 0px;
+	top: 1786px;
+}
