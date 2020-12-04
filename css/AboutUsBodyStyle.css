@@ -43,7 +43,7 @@ font-family: 'Rubik', sans-serif;*/
 	background-color: #09A4D8;
 	border-radius: 4%;
 	padding: 4%;
-	padding-left: 34%;
+	padding-left: 32%;
 	padding-right: 30%;
 	left: 158%;
 	bottom: 211px;
@@ -54,7 +54,7 @@ font-family: 'Rubik', sans-serif;*/
 	background-color: #09A4D8;
 	border-radius: 4%;
 	padding: 4%;
-	padding-left: 38%;
+	padding-left: 36%;
 	padding-right: 40%;
 	left: 158%;
 	bottom: 155px;
@@ -65,7 +65,7 @@ font-family: 'Rubik', sans-serif;*/
 	background-color: #09A4D8;
 	border-radius: 4%;
 	padding: 4%;
-	padding-left: 40%;
+	padding-left: 38%;
 	padding-right: 37%;
 	left: 158%;
 	bottom: 100px;
@@ -88,14 +88,14 @@ header h3{
 
 	position: relative;
 	width: 100%;
-	left: 204%;
+	left: 212%;
 	top: -0.19%;
 }
 .CartaUno .card{
 	position: relative;
-	right: 46%;
+	right: 42%;
 	top: 110px;
-	width: 68%;
+	width: 66%;
 }
 .CartaUno .card h4{
 	font-family: 'Rubik', sans-serif;
@@ -116,27 +116,25 @@ header h3{
 	display: flex;
 	align-items: center;
 	position: relative;
+	top: -32px;
 
 	line-height: 27px;
 	font-size: 16px;
-	width: 100%;
 
-	padding-top: 13px;
 	text-align: center;
 }
 .CartaDos .card{
 	position: relative;
-	left: 27%;
-	top: -380px;
-	width: 69%;
+	left: 29%;
+	top: -412px;
+	width: 67%;
 }
 .CartaDos .card h4{
 	font-family: 'Rubik', sans-serif;
 	font-style: normal;
-	font-size: 24px;
+	font-size: 23px;
 	line-height: 38px;
 	padding-top: 5%;
-	width: 5;
 
 	display: flex;
 	align-items: center;
@@ -148,24 +146,20 @@ header h3{
 	font-family: 'Rubik', sans-serif;
 	color: #878DA4;
 
-	align-items: center;
 	font-weight: normal;
 	font-size: 16px;
 	line-height: 28px;
-	padding-top: 3%;
+	margin-top: 15px;
 
-	width: 100%;
-	padding-left: 2%;
 	display: flex;
-	align-items: center;
 	text-align: center;
 
 }
 .CartaTres .card{
 	position: relative;
 	left: 101%;
-	top: -872.2px;
-	width: 69%;
+	top: -910px;
+	width: 67%;
 }
 .CartaTres .card h4{
 	font-family: 'Rubik', sans-serif;
@@ -173,10 +167,9 @@ header h3{
 	font-weight: 500;
 	font-size: 24px;
 	line-height: 38px;
-	padding-top: 5%;
+	padding-top: 6%;
 
 	display: flex;
-	align-items: center;
 	text-align: center;
 
 	color: #0F1C49;
@@ -187,10 +180,9 @@ header h3{
 	font-weight: normal;
 	font-size: 16px;
 	line-height: 28px;
-	padding-top: 3%;
+	margin-top: 15px;
 
 	display: flex;
-	align-items: center;
 	text-align: center;
 
 	color: #878DA4;
@@ -200,26 +192,104 @@ header h3{
 
 .Slider{
 	position: absolute;
-	width: 1440px;
-	height: 401px;
-	left: 0px;
-	top: 1786px;
+	width: 105%;
+	height: 21%;
+	top: 57.7%;
 }
 .RectangleAU04 .card{
 	position: relative;
-	right: 170px; 
-	top: 100px;
-	width: 334.2px;
+	right: 5%;
+	top: 102px;
+	width: 75%;
 }
 .RectangleAU05 .card{
 	position: relative;
-	left: 170px; 
+	left: 73%; 
 	bottom: 333px;
-	width: 770px;
+	width: 173%;
 }
 .RectangleAU06 .card{
 	position: relative;
-	left: 949.4px; 
+	left: 248%; 
 	bottom: 765px;
-	width: 329px;
+	width: 75%;
+}
+/*TESTIMONIALS*/
+.Testimonials{
+	position: absolute;
+	width: 86%;
+	left: 10%;
+	top: 78.3%;
+}
+.Testimonials h5{
+	color: #09A4D8;
+	line-height: 24px;
+	font-size: 14px;
+	font-weight: 500px;
+	font-family: 'Rubik', sans-serif; 
+}
+.Testimonials h4{
+	color: #0F1C49;
+	line-height: 48px;
+	font-family: 'Roboto Slab', serif; 
+	font-size: 31px;
+	font-weight: 400px;
+	margin-top: -.1%; 
+}
+#frank_1{
+	position: absolute;
+	margin-top: 12%;
+	margin-left: -2%;
+}
+.card h5{
+	color: #0F1C49;
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 28px;
+	font-family: 'Rubik', sans-serif; 
+	margin-top: 16%;
+	margin-left: 7%; 
+}
+#card_3 h5{
+	font-weight: 500px;
+	color: #000000;
+}
+.card h4{
+	color: #878DA4;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 24px;
+	font-family: 'Rubik', sans-serif;  
+}
+.card p{
+	color: #878DA4;
+	font-size: 16px;
+	font-weight: normal;
+	font-family: 'Rubik', sans-serif;   
+	line-height: 28px;
+	margin-top: 11.5%;
+	margin-left: -3%;
+	width: 85%;
+}
+.cards {
+	margin-top: 6%;
+}
+.card{
+	width: 88.5%;
+}
+#card_1{
+	margin-left: 5%;
+	border: transparent;
+	border-radius: 24px;
+}
+#card_2{
+	margin-left: 9%;
+	margin-top: 16%;
+	border: transparent;
+	border-radius: 24px;
+}
+#card_3{
+	margin-left: 12%;
+	border: transparent;
+	border-radius: 24px;
 }
