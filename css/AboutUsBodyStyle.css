@@ -205,3 +205,21 @@ header h3{
 	left: 0px;
 	top: 1786px;
 }
+.RectangleAU04 .card{
+	position: relative;
+	right: 170px; 
+	top: 100px;
+	width: 334.2px;
+}
+.RectangleAU05 .card{
+	position: relative;
+	left: 170px; 
+	bottom: 333px;
+	width: 770px;
+}
+.RectangleAU06 .card{
+	position: relative;
+	left: 949.4px; 
+	bottom: 765px;
+	width: 329px;
+}
