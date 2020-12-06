@@ -388,10 +388,82 @@ header h3{
 .copyright{
 	background: #103365;
 	height: 5%;
-	margin-bottom: 50000px;
 }
 .copyright p{
 	padding-top: 1.5%;
 	padding-bottom: 1.5%;
 	font-size: 14px;
+}
+
+/*TOP*/
+
+.Menú{
+	position: relative;
+	width: 100%;
+	height: 72%;
+}
+.LogoAboutUs img{
+	position: relative;
+	left: 10%;
+	right: 73.54%;
+	top: 35px;
+	width: 3.4%;
+}
+.Menú h4{
+	position: relative;
+	left: 14.8%;
+	top: -25px;
+
+	font-family: 'Rubik', sans-serif;
+	font-style: normal;
+	font-size: 24px;
+	line-height: 86px;
+
+	color: #0F1C49;
+}
+.Menú nav{
+	margin-left: 21.5%;
+	margin-top: -7.2%;
+
+}
+.Menú nav ul li{
+	margin-left: 7.2%;
+
+	float: left;
+}
+.HomeAboutUs{
+	color: #878DA4;
+	font-family:  'Rubik', sans-serif;
+	font-weight: 16px;
+	font-size: 16px;
+}
+.AboutAboutUs{
+	color: #0F1C49;
+	font-family:  'Rubik', sans-serif;
+	font-weight: 16px;
+	font-size: 16px;
+}
+.DepartmentAboutUs{
+	color: #878DA4;
+	font-family:  'Rubik', sans-serif;
+	font-weight: 16px;
+	font-size: 16px;
+}
+.ContactUsAboutUs{
+	color: #878DA4;
+	font-family:  'Rubik', sans-serif;
+	font-weight: 16px;
+	font-size: 16px;
+}
+}
+.PagesAboutUs{
+	color: #878DA4;
+	font-family:  'Rubik', sans-serif;
+	font-weight: 16px;
+	font-size: 16px;
+}
+.RectangleAboutUs{
+	position: relative;
+	left: 22%;
+	
 }
