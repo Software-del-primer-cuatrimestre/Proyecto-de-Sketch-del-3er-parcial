@@ -1,3 +1,6 @@
+html{
+    overflow-x: hidden;
+}
 body{
 		background: rgba(141, 186, 201, 0.06)
 }
@@ -504,3 +507,61 @@ color: #878DA4;
 	font-weight: normal;
 	font-family: 'Rubik', sans-serif; 
 }
+@media (max-width: 575.98px) {.apps img{ 
+width: 100%;
+margin-top: 5%;
+ }
+ @media (max-width: 575.98px) {#temporal{ 
+width: 50%;
+margin-top: 165%;
+left: 33%;
+ }
+@media (max-width: 575.98px) {.connecting img{
+	width: 100%;
+	margin-top: 50%;
+	left: -20%;
+}}
+@media (max-width: 575.98px) {.connecting p {
+	margin-top: 200%;
+	width: 250%;
+	}}
+@media (max-width: 575.98px) {#doc {
+	width: 100%;
+	}}
+@media (max-width: 575.98px) {#Mask_2 {
+width: 100%;
+	}}
+	@media (max-width: 575.98px) {#esteto{
+		margin-top: 50%;
+		width: 40%;
+		} }
+	@media (max-width: 575.98px) {#temporal_2{
+		width: 70%;
+		} }
+	@media (max-width: 575.98px) {#feeling {
+		width: 90%;
+		}}
+	@media (max-width: 575.98px) {.process_2 h4{
+		width: 90%;
+		} }
+
+	@media (max-width: 575.98px) {.our-service h4{
+		width: 100%;
+		}}
+@media (max-width: 575.98px) {.nav-link_Appointment {
+	position: absolute;
+	margin-top: -17%;
+	margin-left: 130%;
+	}}
+	@media (max-width: 575.98px) {.testimonial h5{
+		margin-top: 50%;
+		}}
+		@media (max-width: 575.98px) {.logos_marcas img{
+			width: 90%;
+			}}
+	@media (max-width: 575.98px) {.connecting h1{
+		font-size: 35px;
+		} }
+			@media (max-width: 575.98px) {#Send{
+			background: #0E418A;
+			}}
